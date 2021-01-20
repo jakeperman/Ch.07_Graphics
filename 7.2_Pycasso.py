@@ -20,7 +20,7 @@ y = 800
 x = 600
 xc = x/2
 yc = y/2
-arcade.open_window(x, y, "Pycasso")
+arcade.open_window(x, y, "")
 arcade.set_background_color(arcade.color.STAR_COMMAND_BLUE)
 
 arcade.start_render()
